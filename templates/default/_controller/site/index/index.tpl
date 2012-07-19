@@ -1,0 +1,1 @@
+<h1>{$lang.controller.succInstallation}</h1>

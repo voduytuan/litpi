@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<lines name="head_list" descr=""><![CDATA[Log Management]]></lines>
+	<lines name="intro_list" descr=""><![CDATA[Log Management List]]></lines>
+	<lines name="title_list" descr=""><![CDATA[Log Entry List]]></lines>
+	<lines name="title_listSearch" descr=""><![CDATA[Search result]]></lines>
+	<lines name="pageTitle_list" descr=""><![CDATA[Log &raquo; Log Entry List]]></lines>
+	
+	<lines name="head_detail" descr=""><![CDATA[Log Entry Detail]]></lines>
+	<lines name="intro_detail" descr=""><![CDATA[Log Entry Detail]]></lines>
+	<lines name="title_detail" descr=""><![CDATA[Informaton detail]]></lines>
+	<lines name="pageTitle_detail" descr=""><![CDATA[Log &raquo; Log Entry Detail]]></lines>
+	
+	<lines name="formDatecreatedLabel" descr=""><![CDATA[Date create]]></lines>
+	<lines name="formEmailLabel" descr=""><![CDATA[Email]]></lines>
+	<lines name="formTypeLabel" descr=""><![CDATA[Type]]></lines>
+	<lines name="formIpLabel" descr=""><![CDATA[IP]]></lines>
+	<lines name="formMainIdLabel" descr=""><![CDATA[Main ID]]></lines>
+	<lines name="formMoreDataLabel" descr=""><![CDATA[More data]]></lines>
+	
+	<lines name="errNotFound" descr=""><![CDATA[Not found Log Entry or Log Entry not valid.]]></lines>
+	<lines name="errDelete" descr=""><![CDATA[Log Entry delete error #<strong>###logid###</strong>.]]></lines>
+	<lines name="succDelete" descr=""><![CDATA[Log Entry delete success #<strong>###logid###</strong>.]]></lines>
+	
+	
+	
+</data>

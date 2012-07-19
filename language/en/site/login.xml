@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+	<lines name="title" descr=""><![CDATA[Control Panel]]></lines>
+	<lines name="typeLabel" descr=""><![CDATA[Enter the information]]></lines>
+	<lines name="help" descr=""><![CDATA[Fill in the information below to log in]]></lines>
+	<lines name="email" descr=""><![CDATA[Email]]></lines>
+	<lines name="password" descr=""><![CDATA[Password]]></lines>
+	<lines name="rememberme" descr=""><![CDATA[&nbsp;Remember me]]></lines>
+	<lines name="remembermeTip" descr=""><![CDATA[This function lets you automatically log in every time the website. Should use this function to your home computer.]]></lines>
+	<lines name="submitLabel" descr=""><![CDATA[Login]]></lines>
+	<lines name="succRegister" descr=""><![CDATA[To register successfully. Login to continue.]]></lines>
+	<lines name="succActivate" descr=""><![CDATA[Your account has been activated successfully.]]></lines>
+	<lines name="succResetpass" descr=""><![CDATA[Your password has been updated.]]></lines>
+	<lines name="loginmore" descr=""><![CDATA[<strong>Don't have an account? </strong> Choose an account to log in]]></lines>
+	<lines name="loginFacebookTitle" descr=""><![CDATA[Sign in with Facebook]]></lines>
+	<lines name="loginYahooTitle" descr=""><![CDATA[Sign in with Yahoo Mail]]></lines>
+	<lines name="loginGoogleTitle" descr=""><![CDATA[Sign in with Gmail]]></lines>
+	
+	<lines name="errAccountInvalid" descr=""><![CDATA[Account information is incorrect.]]></lines>
+	<lines name="warnRefer" descr=""><![CDATA[You must login before performing the selected function.]]></lines>
+	
+	
+	<lines name="pageTitle" descr=""><![CDATA[Login]]></lines>
+	<lines name="pageKeyword" descr=""><![CDATA[logged in, login, log in, sign in, sign up, registration, dangnhap, log, dangnhap, Create an account, register]]></lines>
+	<lines name="pageDescription" descr=""><![CDATA[Login to the system. You can log in using your Facebook, Yahoo Mail, gmai. Login to use fully functional website.]]></lines>
+
+</data>

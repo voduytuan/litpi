@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+		
+	<lines name="headline" descr=""><![CDATA[Why not find?]]></lines>
+	<lines name="text1" descr=""><![CDATA[&raquo; Page not found]]></lines>
+	<lines name="text2" descr=""><![CDATA[&raquo; URL not valid.]]></lines>
+	<lines name="text3" descr=""><![CDATA[&raquo; Content and information has been deleted.]]></lines>
+	<lines name="text4" descr=""><![CDATA[&raquo; This content is not valid and the board was cleared.]]></lines>
+
+</data>

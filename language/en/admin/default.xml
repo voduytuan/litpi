@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+  <lines name="adminPanel" descr=""><![CDATA[Admin Panel]]></lines>
+	<lines name="dateFormatTime" descr=""><![CDATA[H:i, M d Y]]></lines>
+	<lines name="dateFormatTimeSmarty" descr=""><![CDATA[%H:%M, %d/%m/%Y]]></lines>
+	<lines name="dateFormatSmarty" descr=""><![CDATA[%d/%m/%Y]]></lines>
+	
+	<lines name="menudashboard" descr=""><![CDATA[Dashboard]]></lines>
+	<lines name="menuuser" descr=""><![CDATA[User Management]]></lines>
+	<lines name="menulog" descr=""><![CDATA[Moderator Log]]></lines>
+	<lines name="menusessionmanager" descr=""><![CDATA[Session Manager]]></lines>
+	<lines name="menulanguage" descr=""><![CDATA[Language Editor]]></lines>
+	
+	<lines name="filterLabel" descr=""><![CDATA[Search]]></lines>
+	<lines name="formViewAll" descr=""><![CDATA[View All &raquo;]]></lines>
+	<lines name="filterSubmit" descr=""><![CDATA[Search]]></lines>
+	<lines name="notfound" descr=""><![CDATA[Data Not Found.]]></lines>
+	<lines name="formEditLabel" descr=""><![CDATA[Edit]]></lines>
+	<lines name="formActionEditTooltip" descr=""><![CDATA[Edit this item]]></lines>
+	<lines name="formDeleteLabel" descr=""><![CDATA[Delete]]></lines>
+	<lines name="formActionDeleteTooltip" descr=""><![CDATA[Delete this item]]></lines>
+	<lines name="formDetailLabel" descr=""><![CDATA[Detail]]></lines>
+	<lines name="formActionDetailTooltip" descr=""><![CDATA[View Detail]]></lines>
+	<lines name="formRequiredLabel" descr=""><![CDATA[Required field.]]></lines>
+	<lines name="formAddSubmit" descr=""><![CDATA[ADD]]></lines>
+	<lines name="formUpdateSubmit" descr=""><![CDATA[UPDATE]]></lines>
+	<lines name="formBackLabel" descr=""><![CDATA[&laquo; Go Back]]></lines>
+	<lines name="formChangeOrderSubmit" descr=""><![CDATA[Change Order]]></lines>
+	<lines name="formYesLabel" descr=""><![CDATA[YES]]></lines>
+	<lines name="formNoLabel" descr=""><![CDATA[NO]]></lines>
+  
+	
+  <lines name="bulkActionSelectLabel" descr=""><![CDATA[Select action...]]></lines>
+	<lines name="bulkActionDeletetLabel" descr=""><![CDATA[Delete]]></lines>
+	<lines name="bulkActionSubmit" descr=""><![CDATA[Process]]></lines>
+	<lines name="bulkActionInvalidWarn" descr=""><![CDATA[You do'nt select action]]></lines>
+	<lines name="bulkItemNoSelected" descr=""><![CDATA[You don't selected row data]]></lines>
+	
+	<lines name="errFormTokenInvalid" descr=""><![CDATA[There was an error when sending data. Please try again.]]></lines>
+	
+	
+</data>

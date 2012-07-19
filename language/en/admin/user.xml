@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+		<lines name="head_list" descr=""><![CDATA[User Management]]></lines>
+		<lines name="title_list" descr=""><![CDATA[User List]]></lines>
+		<lines name="title_listSearch" descr=""><![CDATA[Search result]]></lines>
+		<lines name="pageTitle_list" descr=""><![CDATA[User &raquo; User List]]></lines>
+	
+		<lines name="head_edit" descr=""><![CDATA[Update User]]></lines>
+		<lines name="title_edit" descr=""><![CDATA[Information detail]]></lines>
+		<lines name="pageTitle_edit" descr=""><![CDATA[User &raquo; Update User]]></lines>
+		
+		<lines name="head_add" descr=""><![CDATA[Add New User]]></lines>
+		<lines name="pageTitle_add" descr=""><![CDATA[Add User]]></lines>
+		
+		<lines name="head_changepassword" descr=""><![CDATA[Change Account Password]]></lines>
+		<lines name="pageTitle_changepassword" descr=""><![CDATA[Change Password]]></lines>
+		
+
+		<lines name="formKeywordLabel" descr=""><![CDATA[Keyword]]></lines>
+		<lines name="formKeywordInEmailLabel" descr=""><![CDATA[In Email]]></lines>
+		<lines name="formKeywordInFullnameLabel" descr=""><![CDATA[In Fullname]]></lines>
+		<lines name="formImageLabel" descr=""><![CDATA[Avatar]]></lines>
+		<lines name="formImageDeleteLabel" descr=""><![CDATA[Delete Image]]></lines>
+		<lines name="formDateCreatedLabel" descr=""><![CDATA[Date created]]></lines>
+		<lines name="oldpass" descr=""><![CDATA[Current Password]]></lines>
+		<lines name="newpass1" descr=""><![CDATA[New Password]]></lines>
+		<lines name="newpass2" descr=""><![CDATA[Retype New Password]]></lines>
+		
+		<lines name="errEmailInvalid" descr=""><![CDATA[Email is invalid]]></lines>
+		<lines name="errEmailExisted" descr=""><![CDATA[Email is already used]]></lines>
+		<lines name="errPasswordRequired" descr=""><![CDATA[Password is required]]></lines>
+		<lines name="errPasswordRetype" descr=""><![CDATA[Password is not match]]></lines>
+		<lines name="errFullnameRequired" descr=""><![CDATA[Fullname is required]]></lines>
+		
+		<lines name="errAdd" descr=""><![CDATA[Có lỗi khi thêm User mới]]></lines>
+		<lines name="succAdd" descr=""><![CDATA[Tạo User với email <strong>###email###</strong> thành công.]]></lines>
+		
+		<lines name="errEdit" descr=""><![CDATA[Update User error]]></lines>
+		<lines name="succEdit" descr=""><![CDATA[Update User with email <strong>###email###</strong> success.]]></lines>
+		
+		<lines name="errNotFound" descr=""><![CDATA[Not found User selected.]]></lines>
+		<lines name="errDelete" descr=""><![CDATA[Delete User with username <strong>###email###</strong>.]]></lines>
+		<lines name="succDelete" descr=""><![CDATA[Delete success User with username <strong>###email###</strong>.]]></lines>
+		
+		<lines name="errChangepassword" descr=""><![CDATA[Error while changing user password.]]></lines>
+		<lines name="errOldpassNotvalid" descr=""><![CDATA[Current password is not correct.]]></lines>
+		<lines name="errNewpassnotvalid" descr=""><![CDATA[New Password is too short (At least 6 characters).]]></lines>
+		<lines name="errNewpassnotmatch" descr=""><![CDATA[New Password not match. Please check again.]]></lines>
+		<lines name="succChangepassword" descr=""><![CDATA[Password has been changed.]]></lines>
+	
+		<lines name="errResetpass" descr=""><![CDATA[Có lỗi khi reset password.]]></lines>
+		<lines name="errResetpassSendMail" descr=""><![CDATA[Reset password thành công nhưng có lỗi khi gởi mail New pasword cho email <strong>###email###</strong>.]]></lines>
+		<lines name="succResetpass" descr=""><![CDATA[Reset password thành công. Password đã được gởi tới địa chỉ email <strong>###email###</strong>.]]></lines>
+		
+</data>

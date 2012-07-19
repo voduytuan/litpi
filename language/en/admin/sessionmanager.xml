@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<lines name="formSessionIdLabel" descr=""><![CDATA[Session ID]]></lines>
+	<lines name="formIpAddressLabel" descr=""><![CDATA[IP Address]]></lines>
+	<lines name="formBrowserLabel" descr=""><![CDATA[Browser]]></lines>
+	<lines name="formPageLabel" descr=""><![CDATA[Page]]></lines>
+	<lines name="formOsLabel" descr=""><![CDATA[OS]]></lines>
+	<lines name="formBackendLabel" descr=""><![CDATA[Backend]]></lines>
+	<lines name="formLoggedInLabel" descr=""><![CDATA[Logged In]]></lines>
+	<lines name="formDateExpiredLabel" descr=""><![CDATA[Date Expired]]></lines>
+	<lines name="formIpBanningNotifyTooltip" descr=""><![CDATA[This IP Address had been banned by our system.]]></lines>
+	<lines name="formIpBanningTooltip" descr=""><![CDATA[Click here to ban this IP Address]]></lines>
+	<lines name="formExpiredLabel" descr=""><![CDATA[EXPIRED]]></lines>
+	<lines name="formKillSessionTooltip" descr=""><![CDATA[Kill this session]]></lines>
+	<lines name="formKillSelectedSessionSubmit" descr=""><![CDATA[Kill selected session(s)]]></lines>
+	<lines name="deleteSelected" descr=""><![CDATA[Delete selected item(s)]]></lines>
+</data>

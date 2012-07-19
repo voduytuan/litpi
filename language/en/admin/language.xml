@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+	<lines name="title_list" descr=""><![CDATA[Language Folder/File]]></lines>
+	<lines name="pageTitle_list" descr=""><![CDATA[Language » Folder/File]]></lines>
+	<lines name="head_edit" descr=""><![CDATA[Editing]]></lines>
+	<lines name="pageTitle_edit" descr=""><![CDATA[Language » Edit File]]></lines>
+	
+	<lines name="formReorderAlphabetLabel" descr=""><![CDATA[Re-arrange to Alphabetical order]]></lines>
+	<lines name="errNotFound" descr=""><![CDATA[File not found.]]></lines>
+	<lines name="warnFileNotWritable" descr=""><![CDATA[System can not write to this file due to permission problem. Please CHMOD this file to 666 or similar permissions on other platforms.]]></lines>
+	<lines name="succSave" descr=""><![CDATA[Updated file successfully.]]></lines>
+</data>

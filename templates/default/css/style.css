@@ -1,0 +1,95 @@
+body{margin:0; padding:0;font-family: Helvetica, Tahoma, sans-serif; font-size:12px; background:#fff;}
+*{padding:0;margin:0;}
+ul{list-style-type:none;}
+p, h1, form, input{border:0; margin:0; padding:0;}
+.hide{display:none;}
+.cl{clear:both;}
+.fr{float:right;}
+.fl{float:left;}
+.clear{clear:both; height:0px;}
+
+/* ---- NOTIFY BAR ---- */
+.notify-bar{padding:10px;border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; margin:10px 0;}
+.notify-bar-success{background:#eaffa5;color:#6c8c00;}
+.notify-bar-error{background:#ffcfce;color:#9e3737;}
+.notify-bar-warning{background:#ffeeb1;color:#e37b00;}
+.notify-bar-info{background:#d6e2ff;color:#577bd1;}
+.notify-bar-icon{float:left;width:35px;}
+.notify-bar-text{padding:0 20px 0 35px; font-size:14px;line-height:1.5;}
+.notify-bar-text p{margin:0;}
+.notify-bar-text-sep{border-top:1px solid #eee;margin:10px 0;}
+.notify-bar-button{float:right;width:15px;text-align:right;}
+.notify-bar a:hover{color:#009; text-decoration:underline;}
+
+/* PAGINATION from TWITTER BOOTSTRAP */
+
+.pagination {
+  height: 36px;
+  margin: 18px 0;
+}
+
+.pagination ul {
+  display: inline-block;
+  *display: inline;
+  margin-bottom: 0;
+  margin-left: 0;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+  *zoom: 1;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.pagination li {
+  display: inline;
+}
+
+.pagination a {
+  float: left;
+  padding: 0 14px;
+  line-height: 34px;
+  text-decoration: none;
+  border: 1px solid #ddd;
+  border-left-width: 0;
+}
+
+.pagination a:hover,
+.pagination .active a {
+  background-color: #f5f5f5;
+}
+
+.pagination .active a {
+  color: #999999;
+  cursor: default;
+}
+
+.pagination .disabled span,
+.pagination .disabled a,
+.pagination .disabled a:hover {
+  color: #999999;
+  cursor: default;
+  background-color: transparent;
+}
+
+.pagination li:first-child a {
+  border-left-width: 1px;
+  -webkit-border-radius: 3px 0 0 3px;
+     -moz-border-radius: 3px 0 0 3px;
+          border-radius: 3px 0 0 3px;
+}
+
+.pagination li:last-child a {
+  -webkit-border-radius: 0 3px 3px 0;
+     -moz-border-radius: 0 3px 3px 0;
+          border-radius: 0 3px 3px 0;
+}
+
+.pagination-centered {
+  text-align: center;
+}
+
+.pagination-right {
+  text-align: right;
+}

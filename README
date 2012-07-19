@@ -1,0 +1,34 @@
+===================================================
+=	LITPI - LIGHTWEIGHT PHP FRAMEWORK
+===================================================
+
+Demo website: http://www.litpi.com/litphoto
+Version: 1.0
+Developer: Vo Duy Tuan <tuanmaster2002@yahoo.com>
+Published: 20/07/2012
+
+
+SYSTEM REQUIREMENT
+==================
+PHP 5.x with PDO enable
+Apache with Mod_Rewrite
+MySQL
+
+
+INSTALLATION
+=================
+1. Import Litpi Database (/_DATABASE/litpi_dump.sql)
+
+2. Configuration: Edit file "/includes/config.php" with your Database connection info (Database host, user, password, database name). Set correct ROOTURL in config.php file of your website (host, rooturl).
+
+3. CHMOD 777 following directories:
+/templates/_core/templates_c/		: for Smarty compiled TPL files.
+/uploads/minifycache/			: for caching Minify CSS, Javascript
+
+4. CHMOD 666 all XML files in "/language/" directories if you want to use Language Editor feature in Admin Panel.
+
+5. Go to homepage, browser will redirect you to Installation page because there is not Administrator User in your system. Fill the form to create the Admin User and start coding on Litpi framework.
+
+------------------------------------
+View more at: http://www.litpi.com (c) 2012.
+

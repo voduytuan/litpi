@@ -1,0 +1,55 @@
+/* customize from bootstrap */
+body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+h3{padding-bottom:10px;}
+footer{font-size:11px; color:#ccc; text-align:right;}
+#sidebar li.nav-header{color:#000;font-size:0.9em;}
+form .table, form{margin-bottom:0;}
+.nav-tabs{border-bottom:5px solid #08c; margin-bottom:0px;}
+.nav-tabs li.active{font-weight:bold;}
+.nav-tabs li.active a{background:#08c;color:#fff;border-color:#08c;}
+.nav-tabs li.active a:hover{background:#08c;color:#fff;border-color:#08c;}
+.tab-content{padding:10px 10px 10px 10px;background:#f3f3f3;}
+.tab-content tbody td:last-child{text-align:right;}
+.tab-content tbody td:first-child{text-align:left;}
+.tab-content thead tr th{background:#ddd;color:#000;}
+
+.alert-heading{font-size:1.7em;padding-bottom:0.5em;}
+.form-horizontal .control-label{width:180px}
+.form-horizontal .controls{margin-left:200px;}
+.form-horizontal .form-actions{padding-left:200px;}
+.table tfoot{border-top:1px solid #e5e5e5; background:#f0f0f0;padding:10px;}
+.table tfoot td .pagination{margin:0;float:right;}
+.pagination a{background:#fff;}
+
+/* not in bootstrap */
+.star_require{color:#f00;}
+.notify-bar-text-sep{height:1px; background:#fff;padding:0 !important;margin:0 20px 5px 0;}
+
+.navgoback{padding:10px 0;}
+.language_flag_current{border:1px solid #CCC;}
+.language_seperator_line{border-top:1px solid #ccc;}
+.language_heading{background:#FFC09B; padding:5px;}
+
+.langfolder li{padding:4px 0 4px 20px;}
+.langfolder_langpack{font-size:18px;background:#FCDEC9;padding:10px;}
+.langfolder_folder{list-style-type:none !important; font-weight:bold;}
+.langfolder_file{font-weight:normal;}
+
+
+/*	NOTIFY BAR	*/
+.notify-bar{padding:10px;border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px;margin-bottom:10px;}
+.notify-bar-success{background:#eaffa5;color:#6c8c00;}
+.notify-bar-error{background:#ffcfce;color:#9e3737;}
+.notify-bar-warning{background:#ffeeb1;color:#e37b00;}
+.notify-bar-info{background:#d6e2ff;color:#577bd1;}
+.notify-bar-icon{float:left;width:45px;}
+.notify-bar-text{padding:0 20px 0 45px; font-size:18px;line-height:1.5;}
+.notify-bar-text-sep{border-top:1px solid #eee;margin:10px 0;}
+.notify-bar-button{float:right;width:15px;text-align:right;}
+
