@@ -1,0 +1,11 @@
+Options +FollowSymLinks
+Options -Indexes  -MultiViews
+RewriteEngine On
+
+#uncomment following "RewriteBase /" if the website is put on the root directory, example: http://www.sample.com/
+#comment following "RewriteBase /" if the website is sub directory, example: http://localhost/sample/
+#RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?route=$1 [L,QSA]
