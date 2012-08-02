@@ -656,7 +656,7 @@ class Helper
 	*/
 	public static function xss_clean($data)
 	{
-		return $data;
+
 		// Fix &entity\n;
 		$data = str_replace(array('&amp;','&lt;','&gt;'), array('&amp;amp;','&amp;lt;','&amp;gt;'), $data);
 		$data = preg_replace('/(&#*\w+)[\x00-\x20]+;/u', '$1;', $data);
